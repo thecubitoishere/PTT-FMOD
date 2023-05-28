@@ -60,8 +60,8 @@
 	<object class="MarkerTrack" id="{fbf50bb2-a309-4fc8-b3c1-d368c49c6724}" />
 	<object class="GroupTrack" id="{15d5775e-f90e-43d2-8446-4b223deb58fb}">
 		<relationship name="modules">
-			<destination>{962af70d-f407-4b1a-bbf3-52723c62d5f8}</destination>
 			<destination>{046f9c2b-c23a-4f30-979e-bba723aa79f7}</destination>
+			<destination>{a6c4e852-9d7c-41f6-9ebb-c908acd2dc67}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{270f35e9-6b41-40e0-a7ac-64116e914b16}</destination>
@@ -69,8 +69,8 @@
 	</object>
 	<object class="Timeline" id="{c067eb95-d51f-42db-a1b3-0392cd376b08}">
 		<relationship name="modules">
-			<destination>{962af70d-f407-4b1a-bbf3-52723c62d5f8}</destination>
 			<destination>{046f9c2b-c23a-4f30-979e-bba723aa79f7}</destination>
+			<destination>{a6c4e852-9d7c-41f6-9ebb-c908acd2dc67}</destination>
 		</relationship>
 		<relationship name="markers">
 			<destination>{d7a0cbdc-0cd2-4db8-99aa-7ca4833d26fd}</destination>
@@ -94,14 +94,6 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{d7139a70-ece5-44a7-8c69-0f7a543ba8bd}" />
-	<object class="SingleSound" id="{962af70d-f407-4b1a-bbf3-52723c62d5f8}">
-		<property name="length">
-			<value>71.489354166666672</value>
-		</property>
-		<relationship name="audioFile">
-			<destination>{43d9460a-a343-4395-9931-650857fc0718}</destination>
-		</relationship>
-	</object>
 	<object class="SingleSound" id="{046f9c2b-c23a-4f30-979e-bba723aa79f7}">
 		<property name="start">
 			<value>76</value>
@@ -111,6 +103,14 @@
 		</property>
 		<relationship name="audioFile">
 			<destination>{7432d518-b247-4e9a-aa00-9813c6079850}</destination>
+		</relationship>
+	</object>
+	<object class="SingleSound" id="{a6c4e852-9d7c-41f6-9ebb-c908acd2dc67}">
+		<property name="length">
+			<value>70.844081632653058</value>
+		</property>
+		<relationship name="audioFile">
+			<destination>{ee3a6dfb-9066-4633-b14d-b282bea932cd}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{270f35e9-6b41-40e0-a7ac-64116e914b16}">
@@ -155,7 +155,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>71.459387755102043</value>
+			<value>70.844081632653058</value>
 		</property>
 		<property name="transitionOffset">
 			<value>1</value>
