@@ -16,7 +16,7 @@
 			<value>-80</value>
 		</property>
 		<property name="highGain">
-			<value>-15.5</value>
+			<value>-12</value>
 		</property>
 		<property name="lowCrossover">
 			<value>660</value>
