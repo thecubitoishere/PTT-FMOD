@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{b74a0331-00d0-4265-a0d1-f252f7e8fb7e}">
-		<property name="note" />
 		<property name="name">
 			<value>spin</value>
 		</property>

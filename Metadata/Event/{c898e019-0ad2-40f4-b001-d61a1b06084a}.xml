@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{c898e019-0ad2-40f4-b001-d61a1b06084a}">
-		<property name="note" />
 		<property name="name">
 			<value>toppingot</value>
 		</property>

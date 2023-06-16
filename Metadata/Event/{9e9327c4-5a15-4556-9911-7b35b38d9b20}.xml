@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{9e9327c4-5a15-4556-9911-7b35b38d9b20}">
-		<property name="note" />
 		<property name="name">
 			<value>down</value>
 		</property>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{acad0587-f8ac-49d5-907e-6c637186d634}">
-		<property name="note" />
 		<property name="name">
 			<value>racestart</value>
 		</property>

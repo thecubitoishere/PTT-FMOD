@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{3f3b12b7-f29c-4957-9566-d07cf9c393cb}">
-		<property name="note" />
 		<property name="name">
 			<value>uzi</value>
 		</property>

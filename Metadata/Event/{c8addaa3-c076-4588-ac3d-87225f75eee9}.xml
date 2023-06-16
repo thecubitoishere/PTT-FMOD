@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{c8addaa3-c076-4588-ac3d-87225f75eee9}">
-		<property name="note" />
 		<property name="name">
 			<value>jump</value>
 		</property>

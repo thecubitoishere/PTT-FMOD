@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{d8d76ed1-25db-4d4c-a11b-ea87384255a4}">
-		<property name="note" />
 		<property name="name">
 			<value>elevatorsqueak</value>
 		</property>

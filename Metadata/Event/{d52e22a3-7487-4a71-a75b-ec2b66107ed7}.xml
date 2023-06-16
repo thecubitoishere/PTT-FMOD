@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{d52e22a3-7487-4a71-a75b-ec2b66107ed7}">
-		<property name="note" />
 		<property name="name">
 			<value>splat</value>
 		</property>

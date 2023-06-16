@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{c44d92b2-3b15-4c9e-92eb-aa67713fd00a}">
-		<property name="note" />
 		<property name="name">
 			<value>hamkuff</value>
 		</property>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{6e31e834-b04a-4e59-a69b-3a93fec091df}">
-		<property name="note" />
 		<property name="name">
 			<value>grablevel</value>
 		</property>

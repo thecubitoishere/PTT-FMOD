@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{0d35eee8-64e9-4828-85ee-7e8c541fdb97}">
-		<property name="note" />
 		<property name="name">
 			<value>winrace</value>
 		</property>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{9b7225f3-b196-4778-a499-79f1c18161a5}">
-		<property name="note" />
 		<property name="name">
 			<value>tvthrow</value>
 		</property>

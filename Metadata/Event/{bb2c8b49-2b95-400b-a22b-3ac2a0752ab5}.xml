@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{bb2c8b49-2b95-400b-a22b-3ac2a0752ab5}">
-		<property name="note" />
 		<property name="name">
 			<value>step</value>
 		</property>

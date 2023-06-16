@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{80ebd8ff-8fa7-44f0-b133-624561c13016}">
-		<property name="note" />
 		<property name="name">
 			<value>escaperumble</value>
 		</property>

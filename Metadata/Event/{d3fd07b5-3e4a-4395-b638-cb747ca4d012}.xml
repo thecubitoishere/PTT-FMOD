@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{d3fd07b5-3e4a-4395-b638-cb747ca4d012}">
-		<property name="note" />
 		<property name="name">
 			<value>medievalprojectile</value>
 		</property>

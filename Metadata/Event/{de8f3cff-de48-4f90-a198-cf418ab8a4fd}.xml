@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{de8f3cff-de48-4f90-a198-cf418ab8a4fd}">
-		<property name="note" />
 		<property name="name">
 			<value>loserace</value>
 		</property>

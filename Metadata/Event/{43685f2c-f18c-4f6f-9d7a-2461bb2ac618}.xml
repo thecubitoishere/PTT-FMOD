@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{43685f2c-f18c-4f6f-9d7a-2461bb2ac618}">
-		<property name="note" />
 		<property name="name">
 			<value>captaingoblinshoot</value>
 		</property>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{e0af1327-9b77-4360-8748-e0bb2cd0397b}">
-		<property name="note" />
 		<property name="name">
 			<value>gaterise</value>
 		</property>

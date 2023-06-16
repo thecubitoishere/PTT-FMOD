@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{ec40f3de-e549-487d-b993-a115209f7cbf}">
-		<property name="note" />
 		<property name="name">
 			<value>shrink</value>
 		</property>

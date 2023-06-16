@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{b6fd1ce1-7539-4a67-80de-4dc843715f57}">
-		<property name="note" />
 		<property name="name">
 			<value>bossvulnerable</value>
 		</property>

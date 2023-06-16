@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{e29848dc-a5b1-428f-a228-46f83fb14716}">
-		<property name="note" />
 		<property name="name">
 			<value>galloping</value>
 		</property>

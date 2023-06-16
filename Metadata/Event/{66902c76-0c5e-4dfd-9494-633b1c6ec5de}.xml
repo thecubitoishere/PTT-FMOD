@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{66902c76-0c5e-4dfd-9494-633b1c6ec5de}">
-		<property name="note" />
 		<property name="name">
 			<value>thundercloud</value>
 		</property>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{660187fb-81a7-4fb9-84a0-a0d0b05d8ad2}">
-		<property name="note" />
 		<property name="name">
 			<value>turn</value>
 		</property>

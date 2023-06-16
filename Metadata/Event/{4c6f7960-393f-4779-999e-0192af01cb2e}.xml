@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{4c6f7960-393f-4779-999e-0192af01cb2e}">
-		<property name="note" />
 		<property name="name">
 			<value>groundpound</value>
 		</property>

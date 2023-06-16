@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{857f1ecd-5199-4914-99c1-3b6971b5d82f}">
-		<property name="note" />
 		<property name="name">
 			<value>walljump2</value>
 		</property>

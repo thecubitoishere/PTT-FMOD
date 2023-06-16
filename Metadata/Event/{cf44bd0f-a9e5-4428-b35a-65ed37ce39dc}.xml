@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{cf44bd0f-a9e5-4428-b35a-65ed37ce39dc}">
-		<property name="note" />
 		<property name="name">
 			<value>ufo</value>
 		</property>

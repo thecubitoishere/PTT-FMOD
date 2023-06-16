@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{2678eadf-8512-4613-a657-790ecc1470c4}">
-		<property name="note" />
 		<property name="name">
 			<value>breakicebig</value>
 		</property>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{eb4f3211-a49a-4a9b-93ed-ba007a79d5a7}">
-		<property name="note" />
 		<property name="name">
 			<value>captaingoblincrosshair</value>
 		</property>

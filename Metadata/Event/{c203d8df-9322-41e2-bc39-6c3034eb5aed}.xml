@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{c203d8df-9322-41e2-bc39-6c3034eb5aed}">
-		<property name="note" />
 		<property name="name">
 			<value>kashing</value>
 		</property>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{5e37391e-2f0c-44b7-8251-018c5b2771fe}">
-		<property name="note" />
 		<property name="name">
 			<value>lapenter</value>
 		</property>

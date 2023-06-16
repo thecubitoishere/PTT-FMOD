@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{63835d3b-0014-4538-b1b1-bd6d9c0cbd76}">
-		<property name="note" />
 		<property name="name">
 			<value>sniffbump</value>
 		</property>

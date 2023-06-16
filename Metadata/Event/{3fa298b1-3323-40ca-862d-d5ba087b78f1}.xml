@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{3fa298b1-3323-40ca-862d-d5ba087b78f1}">
-		<property name="note" />
 		<property name="name">
 			<value>cog</value>
 		</property>

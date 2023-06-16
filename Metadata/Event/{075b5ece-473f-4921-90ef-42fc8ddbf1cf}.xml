@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{075b5ece-473f-4921-90ef-42fc8ddbf1cf}">
-		<property name="note" />
 		<property name="name">
 			<value>beerbreak</value>
 		</property>

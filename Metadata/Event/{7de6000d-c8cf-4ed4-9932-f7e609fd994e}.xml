@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{7de6000d-c8cf-4ed4-9932-f7e609fd994e}">
-		<property name="note" />
 		<property name="name">
 			<value>pepgusswitch</value>
 		</property>

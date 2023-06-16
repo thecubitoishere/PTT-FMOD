@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{cc84421d-e6a8-462f-b4e8-eecf88d7c76f}">
-		<property name="note" />
 		<property name="name">
 			<value>bigpunchstart</value>
 		</property>

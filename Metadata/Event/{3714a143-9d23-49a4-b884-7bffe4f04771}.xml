@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{3714a143-9d23-49a4-b884-7bffe4f04771}">
-		<property name="note" />
 		<property name="name">
 			<value>giantstomp</value>
 		</property>

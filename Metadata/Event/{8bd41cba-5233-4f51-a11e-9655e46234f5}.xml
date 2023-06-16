@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{8bd41cba-5233-4f51-a11e-9655e46234f5}">
-		<property name="note" />
 		<property name="name">
 			<value>recover</value>
 		</property>

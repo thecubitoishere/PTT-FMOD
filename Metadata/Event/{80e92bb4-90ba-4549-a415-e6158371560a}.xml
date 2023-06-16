@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{80e92bb4-90ba-4549-a415-e6158371560a}">
-		<property name="note" />
 		<property name="name">
 			<value>grabeat</value>
 		</property>

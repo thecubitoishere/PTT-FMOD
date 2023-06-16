@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{c321f170-ed01-4b5a-817a-3748016825aa}">
-		<property name="note" />
 		<property name="name">
 			<value>bump</value>
 		</property>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{5ae784b7-98a8-4bfe-8b45-23881ac4f469}">
-		<property name="note" />
 		<property name="name">
 			<value>computerswitch</value>
 		</property>

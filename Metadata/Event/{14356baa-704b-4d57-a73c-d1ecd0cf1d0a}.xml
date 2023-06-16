@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{14356baa-704b-4d57-a73c-d1ecd0cf1d0a}">
-		<property name="note" />
 		<property name="name">
 			<value>bossbeaten</value>
 		</property>

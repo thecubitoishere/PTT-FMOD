@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{5e03b696-8de7-4db0-a2b8-cec068c91d75}">
-		<property name="note" />
 		<property name="name">
 			<value>deflateeat</value>
 		</property>

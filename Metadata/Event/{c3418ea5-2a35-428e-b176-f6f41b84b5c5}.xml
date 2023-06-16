@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{c3418ea5-2a35-428e-b176-f6f41b84b5c5}">
-		<property name="note" />
 		<property name="name">
 			<value>swingstart</value>
 		</property>
